@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_shopping">SHOPPING</string>
+    <string name="title_appointments">APPOINTMENTS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shopping">Hello shopping fragment</string>
+    <string name="appointments">Hello Appointments fragment</string>
+    <string name="title_activity_item_shopping">ItemShopping</string>
+    <string name="title_activity_delete_item_shopping">DeleteItemShopping</string>
+    <string name="title_activity_change_item_appointment">ChangeItemAppointment</string>
+    <string name="title_activity_change_appointment">ChangeAppointment</string>
+</resources>
